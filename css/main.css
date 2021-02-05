@@ -1,9 +1,10 @@
 body {
-    background: gray;
+  background: whitesmoke;
 }
 
 .nav-link {
-    font-family: "Roboto", sans-serif;
-    font-size: 1.25em;
-    margin-left: 15px;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.25em;
+  margin-left: 15px;
+}
 
