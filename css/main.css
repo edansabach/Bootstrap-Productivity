@@ -1,10 +1,8 @@
 /* Navigation */
 a,
-a:hover,
-a:focus,
-a:active {
-  text-decoration: none;
+a:hover {
   color: inherit;
+  text-decoration: none;
 }
 
 .navbar {
@@ -25,14 +23,14 @@ header {
 /* Body Content */
 
 body {
-  background-color: #000000cc;
+  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
 }
 
 .list-group-item {
-  background-color: #202020;
-  color: #f8ffff;
+  background-color: #f8ffff;
+  color: #202020;
 }
 
 h3 {
-  color: #f8ffff;
+  color: #202020;
 }
