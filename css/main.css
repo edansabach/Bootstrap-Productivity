@@ -27,8 +27,9 @@ body {
 }
 
 .list-group-item {
-  background-color: #f8ffff;
-  color: #202020;
+  background-color: #202020f6;
+  border-color: #738990;
+  color: #f8ffff;
 }
 
 h3 {

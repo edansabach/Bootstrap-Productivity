@@ -2,7 +2,7 @@
   "name": "bugtracker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "login.html",
   "scripts": {
     "start": "npm run lite",
     "lite": "lite-server",
